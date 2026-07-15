@@ -1,0 +1,6 @@
+cffi
+keyboard
+mouse
+pyautogui
+pynput
+psutil
